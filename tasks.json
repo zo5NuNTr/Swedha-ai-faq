@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "dev",
+			"path": "Code Files",
+			"problemMatcher": [],
+			"label": "npm: dev - Code Files",
+			"detail": "node --watch src/server.js"
+		}
+	]
+}
